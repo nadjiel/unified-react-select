@@ -2,19 +2,19 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A wrapper around `react-select` that exposes features from all the `Select`, `CreatableSelect`, `AsyncSelect` and `AsyncCreatableSelect` in one unified component, all the while implementing additional quality of life features often requested by users.
+A **wrapper** around [`react-select`](https://github.com/JedWatson/react-select) that **exposes features** from all the `Select`, `CreatableSelect`, `AsyncSelect` and `AsyncCreatableSelect` components in one **unified** `Select`, all the while implementing additional **quality of life features** often requested by users.
 
-I made this component because I myself needed these tid bits of features, but couldn't find in the original package. With that in mind, I made some improvement requests in the original package, but, while those aren't implemented, I made this quick open code component to help me, and any one in need.
+I made this component because I myself needed these tid-bits of features, but couldn't find in the original package. With that in mind, I made some improvement requests in the original package, but while those aren't implemented, I made this quick **open code component** to help me, and also anyone in need.
 
-This implementation involves the creation of new async logic based on the plain `CreatableSelect`.
+This implementation involves the creation of new async logic based off of the plain `CreatableSelect` component, in order to avoid some unwanted behaviors from the original `AsyncSelect` or `AsyncCreatableSelect`.
 
-> **Note:** This is an open-code utility designed to be copied directly into your project, the code to look for is in the `src/select` directory. It provides fixes for behaviors currently missing in the official `react-select` package. If there's demand for making this its own package, maybe I can do that in the future. Or hopefully these features will be implemented in the main library. 😀
+> **Note:** This is an **open-code utility** designed to be **copied** directly into your project, the code to look for is in the `src/select` directory. It provides fixes for behaviors currently missing in the official `react-select` package. **If there's demand** for making this project its own **package**, maybe I can do that in the future. Or hopefully these features will be implemented in the main library. 😀
 
-## Problem Solved
+## ✔️ Problem Solved
 
-Standard `react-select` requires sometimes inconvenient workarounds for specific behaviors. This component bridges those gaps by using a custom-built async engine on top of `CreatableSelect`, instead of the default `AsyncSelect` or `AsyncCreatableSelect`.
+Standard `react-select` requires sometimes **inconvenient workarounds** for specific behaviors. This component **bridges those gaps** by using a custom-built async implementation on top of `CreatableSelect`, instead of the default `AsyncSelect` or `AsyncCreatableSelect`.
 
-## Improvements
+## ✨ Improvements
 
 ### Fixed empty list on first load
 In the standard `AsyncSelect`, the options list often resets temporarily during the initial search. This implementation ensures fix that behavior.
