@@ -1,7 +1,8 @@
+import { FormExample } from "./examples";
 
 function App() {
   return (
-    <></>
+    <FormExample />
   )
 }
 

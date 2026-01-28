@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Monroe",
+    "birthDate": "1975-04-12",
+    "deathDate": "",
+    "biography": "Alice Monroe is a celebrated author known for her thrilling adventure novels set in mysterious locations."
+  },
+  {
+    "id": 2,
+    "name": "Brian Carter",
+    "birthDate": "1980-09-23",
+    "deathDate": "",
+    "biography": "Brian Carter writes suspenseful tales often set in small towns, blending mystery and drama."
+  },
+  {
+    "id": 3,
+    "name": "Clara Evans",
+    "birthDate": "1985-02-17",
+    "deathDate": "",
+    "biography": "Clara Evans is acclaimed for her gripping stories of survival and hope."
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "birthDate": "1972-11-05",
+    "deathDate": "",
+    "biography": "David Lee specializes in historical mysteries and stories involving intricate puzzles."
+  },
+  {
+    "id": 5,
+    "name": "Emma Stone",
+    "birthDate": "1978-06-30",
+    "deathDate": "",
+    "biography": "Emma Stone writes heartfelt novels about love, loss, and personal growth."
+  },
+  {
+    "id": 6,
+    "name": "Felix Turner",
+    "birthDate": "1982-01-14",
+    "deathDate": "",
+    "biography": "Felix Turner is known for his epic fantasy adventures featuring dragons and magic."
+  },
+  {
+    "id": 7,
+    "name": "Grace Kim",
+    "birthDate": "1990-03-08",
+    "deathDate": "",
+    "biography": "Grace Kim explores themes of rediscovery and destiny in her novels."
+  },
+  {
+    "id": 8,
+    "name": "Henry Black",
+    "birthDate": "1969-12-21",
+    "deathDate": "",
+    "biography": "Henry Black is a master of ghost stories and supernatural fiction."
+  },
+  {
+    "id": 9,
+    "name": "Isabel Grant",
+    "birthDate": "1987-05-19",
+    "deathDate": "",
+    "biography": "Isabel Grant writes about art, inspiration, and forbidden romance."
+  },
+  {
+    "id": 10,
+    "name": "Jack Morris",
+    "birthDate": "1975-08-02",
+    "deathDate": "",
+    "biography": "Jack Morris is an explorer and author, chronicling tales of courage and discovery."
+  },
+  {
+    "id": 11,
+    "name": "Kara Fields",
+    "birthDate": "1983-10-11",
+    "deathDate": "",
+    "biography": "Kara Fields creates magical worlds filled with secrets and adventure."
+  },
+  {
+    "id": 12,
+    "name": "Liam Scott",
+    "birthDate": "1970-07-27",
+    "deathDate": "",
+    "biography": "Liam Scott writes sweeping family sagas spanning generations."
+  },
+  {
+    "id": 13,
+    "name": "Mia Chen",
+    "birthDate": "1991-04-03",
+    "deathDate": "",
+    "biography": "Mia Chen is known for her dystopian novels and stories of survival."
+  },
+  {
+    "id": 14,
+    "name": "Nathan Brooks",
+    "birthDate": "1979-09-15",
+    "deathDate": "",
+    "biography": "Nathan Brooks is a detective fiction author with a knack for complex cases."
+  },
+  {
+    "id": 15,
+    "name": "Olivia Reed",
+    "birthDate": "1986-12-09",
+    "deathDate": "",
+    "biography": "Olivia Reed writes magical realism novels about growth and healing."
+  },
+  {
+    "id": 16,
+    "name": "Paul Young",
+    "birthDate": "1980-02-25",
+    "deathDate": "",
+    "biography": "Paul Young pens coming-of-age stories set under the stars."
+  },
+  {
+    "id": 17,
+    "name": "Quinn Harper",
+    "birthDate": "1973-05-18",
+    "deathDate": "",
+    "biography": "Quinn Harper specializes in historical thrillers set in Victorian times."
+  },
+  {
+    "id": 18,
+    "name": "Rachel Adams",
+    "birthDate": "1992-11-30",
+    "deathDate": "",
+    "biography": "Rachel Adams writes about the world of ballet and the pursuit of perfection."
+  },
+  {
+    "id": 19,
+    "name": "Samuel Price",
+    "birthDate": "1977-03-22",
+    "deathDate": "",
+    "biography": "Samuel Price is known for his suspenseful adventure novels."
+  },
+  {
+    "id": 20,
+    "name": "Tina Bell",
+    "birthDate": "1984-06-05",
+    "deathDate": "",
+    "biography": "Tina Bell writes romantic comedies about second chances."
+  },
+  {
+    "id": 21,
+    "name": "Uma Patel",
+    "birthDate": "1976-01-29",
+    "deathDate": "",
+    "biography": "Uma Patel weaves interconnected stories about life and fate."
+  },
+  {
+    "id": 22,
+    "name": "Victor Lane",
+    "birthDate": "1968-08-17",
+    "deathDate": "",
+    "biography": "Victor Lane writes nautical adventures and redemption tales."
+  },
+  {
+    "id": 23,
+    "name": "Wendy Fox",
+    "birthDate": "1989-10-13",
+    "deathDate": "",
+    "biography": "Wendy Fox is a fantasy author specializing in royal intrigue."
+  },
+  {
+    "id": 24,
+    "name": "Xander Cole",
+    "birthDate": "1981-12-04",
+    "deathDate": "",
+    "biography": "Xander Cole writes haunting stories about memory and loss."
+  },
+  {
+    "id": 25,
+    "name": "Yara Silva",
+    "birthDate": "1974-03-16",
+    "deathDate": "",
+    "biography": "Yara Silva creates puzzle-filled adventures set in ancient times."
+  },
+  {
+    "id": 26,
+    "name": "Zane Foster",
+    "birthDate": "1988-07-21",
+    "deathDate": "",
+    "biography": "Zane Foster writes about musicians and their emotional journeys."
+  },
+  {
+    "id": 27,
+    "name": "Ava Murphy",
+    "birthDate": "1993-05-12",
+    "deathDate": "",
+    "biography": "Ava Murphy is a travel writer focusing on Ireland's hidden gems."
+  },
+  {
+    "id": 28,
+    "name": "Ben Carter",
+    "birthDate": "1985-09-02",
+    "deathDate": "",
+    "biography": "Ben Carter explores destiny and fate in his novels."
+  },
+  {
+    "id": 29,
+    "name": "Cara Dean",
+    "birthDate": "1979-11-28",
+    "deathDate": "",
+    "biography": "Cara Dean writes about academic rivalries and secrets."
+  },
+  {
+    "id": 30,
+    "name": "Derek Shaw",
+    "birthDate": "1971-02-14",
+    "deathDate": "",
+    "biography": "Derek Shaw is known for his small-town mysteries."
+  }
+]
